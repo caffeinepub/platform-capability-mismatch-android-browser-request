@@ -1,2 +1,3 @@
-# platform-capability-mismatch-android-browser-request
-Exported from Caffeine project: Platform Capability Mismatch - Android Browser Request
+## Platform Capability Mismatch - Android Browser Request
+
+To run app build and run docker image: `docker build -t app . docker run -it --network host app`

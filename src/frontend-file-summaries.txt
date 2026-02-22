@@ -1,0 +1,6 @@
+{
+  "frontend/src/App.tsx": "Main application component that displays a comprehensive explanation page about platform capabilities, clearly communicating that this platform builds web applications and cannot create Android APKs or native browsers, while offering alternative web-based solutions.",
+  "frontend/src/hooks/useQueries.ts": "Minimal placeholder file for future backend integration hooks; currently contains only a basic health check function as no backend queries are needed for this informational page.",
+  "frontend/src/index.css": "Global styles with customized OKLCH color system featuring a blue-purple primary color scheme (hue 250) with improved contrast and visual hierarchy for both light and dark modes.",
+  "frontend/tailwind.config.js": "Tailwind configuration with Inter font family added and slightly increased border radius for a more modern, polished appearance."
+}

@@ -1,0 +1,15 @@
+{
+  "backend/main.mo": "Empty Motoko actor with no functionality implemented.",
+  "feature_evidence.json": "Empty feature evidence report with no features documented.",
+  "frontend-file-summaries.txt": "JSON containing summaries of frontend files describing an informational page explaining platform capabilities and limitations regarding Android APK development.",
+  "frontend/index.css": "Tailwind CSS configuration with OKLCH color system defining CSS custom properties for light and dark themes with neutral grayscale colors.",
+  "frontend/index.html": "HTML entry point with title 'Platform Capability Mismatch - Android Browser Request' and root div for React mounting.",
+  "frontend/src/App.tsx": "Main React component displaying an informational page explaining that the platform builds web applications on Internet Computer, not Android APKs or native browsers, with detailed capability descriptions and alternatives.",
+  "frontend/src/hooks/useActor.ts": "React hook managing Internet Computer actor creation with authentication support, handling both anonymous and authenticated identities with automatic query invalidation on identity changes.",
+  "frontend/src/hooks/useInternetIdentity.ts": "React context provider and hook for Internet Identity authentication, managing login state, identity persistence, and AuthClient lifecycle.",
+  "frontend/src/hooks/useQueries.ts": "Minimal placeholder file with a basic backend health check hook; designed for future backend integration expansion.",
+  "frontend/src/index.css": "Tailwind CSS configuration with OKLCH color system featuring blue-purple theme (hue 250) with enhanced contrast for light and dark modes.",
+  "frontend/src/main.tsx": "React application entry point setting up QueryClient, InternetIdentityProvider, and rendering the App component.",
+  "frontend/tailwind.config.js": "Tailwind configuration with OKLCH color system, Inter font family, custom animations, and extended design tokens for a modern UI.",
+  "project_state.json": "Project metadata indicating a new project named 'Platform Capability Mismatch - Android Browser Request' with no features, issues, or architectural notes."
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "build_request",
+  "title": "Platform Capability Mismatch - Android Browser Request",
+  "priority": "normal",
+  "requirements": [],
+  "constraints": [
+    "This platform cannot create Android APKs or native mobile applications",
+    "This platform cannot build browser engines or browser extensions",
+    "This platform only supports web applications using Motoko backend and React frontend",
+    "Native mobile features like system-level sandboxing, VPN configuration, and background media playback are not available"
+  ],
+  "nonGoals": [
+    "Android APK development",
+    "Native browser engine implementation",
+    "System-level profile sandboxing",
+    "Native mobile app features",
+    "Browser extension marketplace integration",
+    "Tampermonkey script execution engine",
+    "System-level proxy and VPN configuration",
+    "Native download manager",
+    "Background service for media playback"
+  ],
+  "imageRequirements": {
+    "required": [],
+    "edits": []
+  }
+}
